@@ -1,0 +1,9 @@
+{
+    /.vscode
+    /node_modele
+    ./dist
+
+    *.env
+    .env
+    .env.*
+}
